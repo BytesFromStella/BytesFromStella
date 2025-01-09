@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+Very quickly about me:
+- My name is Stella. She/Her pronouns
+- I'm 26 years old
+- Come from the north of Norway (Vikings arrrgh)
+- Have multiple years in the IT-industry
+- 📫 Love talking to people. Feel free to ask me about things
+- 🔭 Always striving for improvement in all kinds of aspects
 <!--
 **BytesFromStella/BytesFromStella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
