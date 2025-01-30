@@ -5,7 +5,7 @@ Very quickly about me:
 - Come from the north of Norway (Vikings arrrgh)
 - Have multiple years in the IT-industry
 - 📫 Love talking to people. Feel free to ask me about things
-- 🔭 Always striving for improvement in all kinds of aspects
+- 🔭 Always striving for improvement in all kinds of aspects (lowkey strive too hard)
 <!--
 **BytesFromStella/BytesFromStella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
